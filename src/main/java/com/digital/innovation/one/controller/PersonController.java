@@ -10,7 +10,7 @@ public class PersonController {
 	
 	@GetMapping
 	public String getBook() {
-		return "API Rest";
+		return "API Rest java 11";
 	}
 
 }
